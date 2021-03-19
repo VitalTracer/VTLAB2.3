@@ -1,2 +1,6 @@
 
 Here you can download final version of VTLAB2.3 firmware.
+
+download zip file, and update watch with downloaded hex file using STM32CubeProg software:
+
+https://www.st.com/en/development-tools/stm32cubeprog.html
